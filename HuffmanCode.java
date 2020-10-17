@@ -1,10 +1,5 @@
 
 // Chris Ong
-// 6/4/20
-// CSE 143
-// TA: Anthony Tran
-// Assignment #8
-//
 // Huffman coding is an algorithm for compressing data. 
 // ASCII value character data is compressed by transforming it into binary format
 // (0's and 1's). For example, the letter a can be represented with a one-bit code,
