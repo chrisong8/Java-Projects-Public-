@@ -1,10 +1,5 @@
 
 // Chris Ong
-// 4/16/20
-// CSE 143
-// TA: Anthony Tran
-// Assignment #2
-//
 // This program implements a GuitarString class that models a vibrating guitar 
 // string of a given frequency by keeping track of a ring buffer
 import java.util.*;
