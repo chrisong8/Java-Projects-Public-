@@ -1,10 +1,5 @@
 
 // Chris Ong
-// 4/30/20
-// CSE 143
-// TA: Anthony Tran
-// Assignment #4
-//
 // This program models a manager for the game "evil hangman," 
 // where the player attempts to guess an answer word, one letter at a time.
 // However, the computer delays picking a word until there is only one 
